@@ -75,8 +75,16 @@ This mirrors how real-world systems like trading platforms, IoT pipelines, and r
 
 ---
 
+## 🌐 Live Demo
 
- 📌 Future Improvements
+* Frontend: GitHub Pages
+* Backend: Deployed on a cloud platform with WebSocket support
+
+(See repository settings or deployment section for URLs.)
+
+---
+
+## 📌 Future Improvements
 
 * Charts for latency trends
 * Multiple client support
